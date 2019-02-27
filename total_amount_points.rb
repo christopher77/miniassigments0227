@@ -7,7 +7,7 @@ if a[0]>a[1]
 score +=3
 elsif a[0]==a[1]
 #puts a[0] , a[1]
-score -=1
+score +=1
 
 end
 i+=1
